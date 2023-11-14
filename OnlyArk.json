@@ -5,7 +5,7 @@
         "HideIcon": false,
         "HideIconAfter": 60,
         "IconURL": "https://i.imgur.com/YPIwoEG.png",
-        "DisableIconText": false,
+        "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 0,
         "OpenOnStart": true,
@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Welcome",
           "title1": "Thanks for joining OnlyArk 10x",
-          "text1": "Mostly everything is 10x\n\nMonster Difficulty 200%\nAlphas 5x Strength & 2x Larger\nShop & Missions\n"
+          "text1": "Click the discord button to go to my discord so u dont miss out on whats happning on the server!\nMostly everything is 10x\n\nMonster Difficulty 200%\nAlphas 5x Strength & 2x Larger\nShop & Missions\n"
         }
       },
       {
